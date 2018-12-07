@@ -76,7 +76,7 @@ class: title-slide
 
 ### Brad Boehmke
 ### 2018-12-05
-### Slides: [bit.ly/8451-random-forest](http://bit.ly/8451-random-forest)
+### Slides: [bit.ly/random-forests-training](http://bit.ly/random-forests-training)
 
 ---
 

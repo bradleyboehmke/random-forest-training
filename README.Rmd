@@ -7,7 +7,7 @@ output:
 
 # Random Forests Training
 
-___Random forest___ are a very popular “out-of-the-box” learning algorithm that enjoys good predictive performance. This [tutorial](http://bit.ly/8451-random-forest) covers the underlying concepts of random forests, what to consider when tuning them, and an illustrative example of implementing them with the R package __ranger__.
+___Random forest___ are a very popular “out-of-the-box” learning algorithm that enjoys good predictive performance. This [tutorial](http://bit.ly/random-forests-training) covers the underlying concepts of random forests, what to consider when tuning them, and an illustrative example of implementing them with the R package __ranger__.
 
 ## Learning Objectives
 

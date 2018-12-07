@@ -3,7 +3,7 @@
 
 ***Random forest*** are a very popular “out-of-the-box” learning
 algorithm that enjoys good predictive performance. This
-[tutorial](http://bit.ly/8451-random-forest) covers the underlying
+[tutorial](http://bit.ly/random-forests-training) covers the underlying
 concepts of random forests, what to consider when tuning them, and an
 illustrative example of implementing them with the R package **ranger**.
 
@@ -25,7 +25,7 @@ section demonstrates an implementation with the R programming language
 and assumes fundamental knowledge of using R; however, you should be
 able to interpret the results regardless of understanding the code. If
 you are unsure whether you meet these prerequisites, feel free to reach
-out and ask [Brad Boehmke](mailto:bradley.boehmke@8451.com).
+out and ask [Brad Boehmke](mailto:bradleyboehmke@gmail.com).
 
 ## Overview
 
